@@ -25,7 +25,7 @@
  <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- <a href="https://www.notion.so/63d20436d5604a8098737c803e96d027?v=4482529242de4499a7d34244abf53435"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> </a>
+ <a href="https://square-aragon-763.notion.site/63d20436d5604a8098737c803e96d027?v=4482529242de4499a7d34244abf53435"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> </a>
  
 </div>
  
