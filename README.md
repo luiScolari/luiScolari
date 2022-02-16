@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luiScolari
-- 🌱 I’m currently learning Mongoose
-- 💞️ I’m looking to collaborate on javascript projects
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate in any kind of web development projects
 - luiscolari889@hotmail.com
 
  <div>
