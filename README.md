@@ -3,12 +3,13 @@
 - 💞️ I’m looking to collaborate in any kind of web development projects
 - luiscolari889@hotmail.com
 
- <div>
+ <!-- <div>
   <a href="https://github.com/luiScolari">
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=luisColari&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisColari&langs_count=7&theme=highcontrast"/>
  
  </div>
+ -->
  
  
  <div> 
